@@ -71,7 +71,7 @@ function App() {
           /* --- LOGGED OUT VIEW --- */
           <div className="logged-out-view">
             <h1>Welcome Back</h1>
-            <p>Please sign in to access your dashboard.</p>
+            <p>Please sign .</p>
 
             <button className="btn btn-login" onClick={handleGoogleLogin}>
               <img 
