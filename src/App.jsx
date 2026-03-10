@@ -7,21 +7,8 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
-
-
-
-
-
-
-
-
-
-
-
-    
-      
-      <Routes>
+    <Router>    
+<Routes>
         <Route path="/" element={<Landing />} />
         
         {/* Helper route to catch /login/user or /login/admin */}
